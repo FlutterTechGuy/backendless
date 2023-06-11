@@ -1,0 +1,21 @@
+name: flutter_application_1
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0-408.0.dev <4.0.0"
+
+dependencies:
+  backendless_sdk: ^7.3.6
+
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
